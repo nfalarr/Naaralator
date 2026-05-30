@@ -1,4 +1,4 @@
-# Naaralator
+# Naaralator ➗
 
 Naaralator adalah kalkulator sederhana berbasis HTML, CSS, dan JavaScript dengan tampilan neumorphism yang ringan dan mudah digunakan langsung dari browser.
 
@@ -19,16 +19,6 @@ Repository ini tidak membutuhkan proses instalasi atau build.
 2. Buka file `index.html` di browser.
 3. Kalkulator siap digunakan.
 
-## Struktur Project
-
-```text
-Naaralator/
-├── fontawesome-free/
-│   ├── css/
-│   └── webfonts/
-├── index.html
-└── README.md
-```
 
 ## Teknologi
 
