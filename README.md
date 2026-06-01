@@ -13,14 +13,6 @@ Naaralator adalah kalkulator sederhana berbasis HTML, CSS, dan JavaScript dengan
 - Tombol clear untuk mengosongkan layar
 - Ikon lokal menggunakan Font Awesome
 
-## Cara Menjalankan
-
-Repository ini tidak membutuhkan proses instalasi atau build.
-
-1. Clone repository ini.
-2. Buka file `index.html` di browser.
-3. Kalkulator siap digunakan.
-
 ## Tujuan
 
 Naaralator dibuat sebagai project kalkulator web sederhana yang fokus pada tampilan bersih, ukuran ringan, dan penggunaan tanpa dependency tambahan.
